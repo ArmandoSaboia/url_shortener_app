@@ -1,3 +1,5 @@
+pip install pyshorteners streamlit
+
 import streamlit as st
 import pyshorteners
 
