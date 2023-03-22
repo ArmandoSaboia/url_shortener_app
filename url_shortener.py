@@ -4,6 +4,7 @@ import pyshorteners
 def main():
 	st.title('URL Shortener')
 	st.markdown('## Simplify your URLs, links & manage them')
+	
 
 	# Create a text input field for the user to enter the long URL
 	url = st.text_input("Enter the URL to shorten")
