@@ -1,3 +1,2 @@
 # URL Shortener
-Simplify your URLs, links & manage them
-URL shortener app
+URL shortener app with streamlit
