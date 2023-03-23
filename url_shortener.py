@@ -1,7 +1,6 @@
 import streamlit as st
 import pyshorteners
 
-[theme]
 base="dark"
 primaryColor="purple"
 
