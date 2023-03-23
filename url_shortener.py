@@ -15,7 +15,6 @@ def main():
     		shortened_url = s.tinyurl.short(url)
        	# Display the shortened URL to the user
     		st.success("Shortened URL: {}".format(shortened_url))
-		st.download_button(on_click=shortened_url)
-    
+		    
 if __name__ == '__main__':
     main()
