@@ -2,7 +2,7 @@ import streamlit as st
 import pyshorteners
 
 def main():
-	st.title('URL Shortener':sunglasses:)
+	st.title('URL Shortener :sunglasses:')
 	st.markdown('## Simplify your URLs, links & manage them')
 	
 	# Create a text input field for the user to enter the long URL
