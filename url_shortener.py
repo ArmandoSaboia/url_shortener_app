@@ -1,6 +1,10 @@
 import streamlit as st
 import pyshorteners
 
+[theme]
+base="dark"
+primaryColor="purple"
+
 def main():
 	st.title('URL Shortener :sunglasses:')
 	st.markdown('## Simplify your URLs, links & manage them')
