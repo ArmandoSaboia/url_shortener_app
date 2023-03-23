@@ -1,5 +1,6 @@
 import streamlit as st
 import pyshorteners
+import dash
 
 def main():
 	st.title('URL Shortener :sunglasses:')
@@ -18,8 +19,6 @@ def main():
 		    
 if __name__ == '__main__':
     main()
-
-import dash
 
 app = dash.Dash(__name__)
 
