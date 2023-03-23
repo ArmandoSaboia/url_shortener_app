@@ -18,12 +18,3 @@ def main():
 		    
 if __name__ == '__main__':
     main()
-
-st.title('Counter Example')
-count = 0
-
-increment = st.button('Increment')
-if increment:
-    count += 1
-
-st.write('Count = ', count)
